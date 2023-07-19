@@ -5,7 +5,7 @@ from PyQt5.QtCore import QSettings
 import os
 import sys
 from design import *
-
+#this comment is a test
 class SolarExplorer(QWidget):
     def __init__(self):
         super().__init__()
